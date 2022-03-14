@@ -1,0 +1,4 @@
+<interface>
+    <template class="GamePlayer" parent="GtkBox">
+    </template>
+</interface>

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Words
+Exec=python -m destofr_words
+StartupWMClass=io.github.destofr.Words
+Terminal=False
